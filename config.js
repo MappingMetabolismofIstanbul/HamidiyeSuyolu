@@ -120,7 +120,7 @@ var config = {
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/Psskv2xB/MEF-AAP-027-BAP-2025-07-22-13-58-45.png',
-            description: 'Cendere Hamidiye Su Pompa İstasyonu Hamidiye Suyolları’na bağlı bir istasyondur.',
+            description: 'Cendere Hamidiye Su Pompa İstasyonu ve Hamidiye Su Terazisi Hamidiye Suyolları’na bağlıdır.',
             location: {
                 center: [28.987, 41.107],
                 zoom: 15,
@@ -135,10 +135,10 @@ var config = {
             },
         {
             id: 'six-identifier',
-            alignment: 'right',
-            hidden: true,
+            alignment: 'left',
+            hidden: false,
             title: '',
-            image: '',
+            image: 'https://i.ibb.co/m5FVfgn8/MEF-AAP-027-BAP-2025-07-29-10-17-39.png',
             description: '',
             location: {
                 center: [28.968, 41.071],
