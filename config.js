@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Hamidiye Suyolu / Hamidiye Waterway',
+    title: 'Suyun Metabolik Akışı: Hamidiye Suyolu / Metabolic Flow of Water: Hamidiye Waterway',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
