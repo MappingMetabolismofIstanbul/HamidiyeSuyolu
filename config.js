@@ -141,7 +141,7 @@ var config = {
             image: 'https://i.ibb.co/m5FVfgn8/MEF-AAP-027-BAP-2025-07-29-10-17-39.png',
             description: '',
             location: {
-                center: [28.968, 41.071],
+                center: [28.981, 41.091],
                 zoom: 15,
                 pitch: 0,
                 bearing: 0.00
