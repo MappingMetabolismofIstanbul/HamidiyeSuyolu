@@ -135,7 +135,7 @@ var config = {
             },
         {
             id: 'six-identifier',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/m5FVfgn8/MEF-AAP-027-BAP-2025-07-29-10-17-39.png',
